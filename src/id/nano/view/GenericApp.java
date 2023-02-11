@@ -11,6 +11,8 @@ public class GenericApp {
         System.out.println(stringMyData.getData());
         System.out.println(integerMyData.getData());
 
+        //error karena invariant, type harus sama dengan yang asal
+        //MyData<Object> objectMyData = stringMyData;
 
     }
 }
