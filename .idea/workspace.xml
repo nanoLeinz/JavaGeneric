@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b9d1119-5b1f-4575-acda-8de6dfe428ff" name="Changes" comment="Added Generic class, method and pair">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/nano/model/NumberData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/nano/view/WildcardApp.java" afterDir="false" />
+    <list default="true" id="0b9d1119-5b1f-4575-acda-8de6dfe428ff" name="Changes" comment="Added wildcard, etc">
+      <change afterPath="$PROJECT_DIR$/src/id/nano/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/nano/view/ComparableApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/nano/view/ComparatorApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/id/nano/view/GenericApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/id/nano/view/GenericApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/id/nano/view/MethodApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/id/nano/view/MethodApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676050693699</updated>
       <workItem from="1676050695417" duration="1722000" />
-      <workItem from="1676125175364" duration="3907000" />
+      <workItem from="1676125175364" duration="5805000" />
     </task>
     <task id="LOCAL-00001" summary="initial Commit">
       <created>1676050739630</created>
@@ -83,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676052090588</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added wildcard, etc">
+      <created>1676129863787</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676129863787</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial Commit" />
     <MESSAGE value="Added Generic class, method and pair" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Generic class, method and pair" />
+    <MESSAGE value="Added wildcard, etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added wildcard, etc" />
   </component>
 </project>
